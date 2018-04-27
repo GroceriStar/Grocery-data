@@ -83,7 +83,7 @@ ingredients: [
 title: "Frozen Foods",
 ingredients: [
 'Frozen fruit: berries, mango, pineapple',
-'Frozen vegetables: peas, green beans, brussels sprouts, corn, endamame'
+'Frozen vegetables: peas, green beans, brussels sprouts, corn, edamame'
 ]
 
 title: "Oils, Vinegars, and Condiments",
