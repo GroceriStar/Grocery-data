@@ -66,7 +66,7 @@ ingredients: [
 'Medjool Dates',
 'Sucanaf',
 'Wild Honey',
-'Whole Sfevia'
+'Whole Stevia'
 ]
 
 title: "Herbs/Spices",
