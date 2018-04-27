@@ -1,4 +1,4 @@
-Low Carb Food List Printable – Carb Chart
+Low Carb Food List Printable â€“ Carb Chart
 https://ketosizeme.com/low-carb-food-list-printable/
 
 
@@ -58,11 +58,11 @@ ingredients: [
 'Pork',
 'Veal',
 'Lamb',
-'Fowl (duck, goose, hen, guail)',
+'Fowl (duck, goose, hen, quail)',
 'Organ Meats (tongue, brains, liver, heart, and kidneys)',
 'Game Meats (ostrich, venison, caribou, bison, and elk)',
 'Exotic Meats (such as ostrich and emu)',
-'Cold Cuts and Becon (read label some have added sugar)'
+'Cold Cuts and Beacon (read label some have added sugar)'
 ]
 
 title: "Cheese/Dairy",
@@ -139,9 +139,9 @@ ingredients: [
 'Unsweetened Tea',
 'Unsweetened Coffee',
 'Club Soda',
-'Sugar Free Sparkling Water',
+'Sugar-Free Sparkling Water',
 'No-Calorie Flavored Seltzers',
-'Helbal Tea (without added barley or fruit sugars)'
+'Herbal Tea (without added barley or fruit sugars)'
 ]
 
 title: "Nuts/Seeds",
@@ -157,7 +157,7 @@ ingredients: [
 'Pumpkin Seeds',
 'Sunflower Seeds (2tbsp.)',
 'Almond Butter',
-'Paenut Butter'
+'Peanut Butter'
 ]
 
 
@@ -190,8 +190,7 @@ ingredients: [
 
 title: "Herbs/Spices",
 ingredients: [
-'All Herbs And Spices',
-'Havy Very Few Carbs'
+'All Herbs And Spices Have Very Few Carbs'
 ]
 
 title: "Zero Carb Alcoholic Drinks",
