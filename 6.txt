@@ -1,12 +1,12 @@
-﻿https://ind5.ccio.co/BA/85/SE/99dabe54ad2906a6f34a2d1313ab979a.jpg
-Clean Fatirig Groccery List
+https://ind5.ccio.co/BA/85/SE/99dabe54ad2906a6f34a2d1313ab979a.jpg
+Clean Fatirig Grocery List
 
 title: "PROTEIN",
 ingredients: [
 'boneless skinless chicken',
 'turkey breast',
 'lean ground chicken, turkey',
-'fresh water fisf',
+'fresh water fish',
 'wild fish',
 'game',
 'eggs',
