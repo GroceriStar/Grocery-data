@@ -1,0 +1,142 @@
+Rebel Dietitian, Dana McDonald, RD
+https://rebeldietitian.us/shopping-lists/
+
+title: "Fresh Fruit",
+ingredients: [
+'Apples',
+'Avocado',
+'Bananas',
+'Blackberries',
+'Blueberries',
+'Cherries',
+'Grapes',
+'Grapefruit',
+'Jalepeno',
+'Kiwi Fruit',
+'Lemons/Limes',
+'Mango',
+'Melon',
+'Nectarines',
+'Oranges',
+'Peaches',
+'Pears',
+'Pineapple',
+'Plums',
+'Pomegranate',
+'Raspberries',
+'Strawberries',
+'Tomato',
+'Watermelon'
+] 
+
+
+title: "Vegetables and Greens",
+ingredients: [
+'Asparagus',
+'Broccoli',
+'Cabbage',
+'Carrots',
+'Cauliflower',
+'Celery',
+'Cucumbers',
+'Bell Peppers',
+'Brussel Sprouts',
+'Green Beans',
+'Green Peas',
+'Kale',
+'Mushrooms',
+'Okra',
+'Olives/Olive Oil',
+'Onions',
+'Potatoes',
+'Pumpkin',
+'Purple Onions',
+'Romaine',
+'Spinach',
+'Sguash',
+'Sweet Potatoes',
+'Zucchini'
+] 
+
+title: "Natural Sweeteners",
+ingredients: [
+'Coconut Palm Sugar',
+'Pure Maple Syrup',
+'Maple Sugar',
+'Medjool Dates',
+'Sucanaf',
+'Wild Honey',
+'Whole Sfevia'
+]
+
+title: "Herbs/Spices",
+ingredients: [
+'Basil',
+'Black Pepper',
+'Cilantro',
+'Cinnamon',
+'Garlic',
+'Ginger',
+'Iodized Salt',
+'Rosemary'
+] 
+
+title: "Nuts and Seeds",
+ingredients: [
+'Almonds',
+'Brazil Nuts',
+'Cashews',
+'Chestnuts',
+'Chia Seeds',
+'Flaxseeds',
+'Hazelnuts',
+'Hemp Seeds',
+'Macadamia',
+'Peanuts',
+'Pecans',
+'Pine Nuts',
+'Pistachios',
+'Pumpkin Seeds',
+'Seasame Seeds',
+'Sunflower Seeds',
+'Walnuts',
+'Fresh Nut/Seed Butter'
+] 
+
+title: "Beans, Peas, Lentils",
+ingredients: [
+'Black Beans',
+'Black-Eyed Peas',
+'Chickpeas',
+'Cranberry Beans',
+'Edamame',
+'Fava Beans',
+'Great Northern',
+'Green Peas',
+'Kidney Beans',
+'Lentils',
+'Lima Beans',
+'Navy Beans',
+'Pinto Beans',
+'Red Beans',
+'White Beans'
+]
+
+title: "Whole Grains",
+ingredients: [
+'Brown Rise',
+'Corn (Non-GMO)',
+'Quinoa',
+'Oats',
+'Wheat Berries',
+'Wild Rice',
+'Whole Grain Bread',
+'Whole Grain Tortillas'
+]
+
+title: "Fats and Oils",
+ingredients: [
+'Avocado Oil',
+'Olive Oil',
+'Coconut Oil'
+]
