@@ -29,7 +29,7 @@ ingredients: [
   'Zucchini',
   'Melon'
 ]
-}
+},
 {
 title: "Protein",
 ingredients: [
@@ -42,7 +42,7 @@ ingredients: [
   'Eggs',
   'Hummus'
 ]
-}
+},
 {
 title: "Bulk Foods",
 ingredients: [
@@ -56,7 +56,7 @@ ingredients: [
   'Chia seeds',
   'Ground flaxseed'
 ]
-}
+},
 {
 title: "Canned Goods/Pantry",
 ingredients: [
@@ -68,7 +68,7 @@ ingredients: [
   'Whole grain pasta',
   'Whole wheat bread'
 ]
-}
+},
 {
 title: "Herbs/Spices",
 ingredients: [
@@ -84,14 +84,14 @@ ingredients: [
   'Salt',
   'Black Pepper'
 ]
-}
+},
 {
 title: "Frozen Foods",
 ingredients: [
   'Frozen fruit: berries, mango, pineapple',
   'Frozen vegetables: peas, green beans, brussels sprouts, corn, edamame'
 ]
-}
+},
 {
 title: "Oils, Vinegars, and Condiments",
 ingredients: [

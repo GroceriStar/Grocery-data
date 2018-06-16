@@ -25,7 +25,8 @@ ingredients: [
   'Veggie Burger',
   'Turkey Bacon'
 ]
-}
+},
+{
 title: "STARCH",
 ingredients: [
   'sweet potato',
@@ -49,7 +50,8 @@ ingredients: [
   'whole grain pita',
   'whole grain or corn tortilla'
 ]
-}
+},
+{
 title: "HEALTHY FATS",
 ingredients: [
   'Avocado',
@@ -65,7 +67,8 @@ ingredients: [
   'goat cheese',
   'parmesan'
 ]
-}
+},
+{
 title: "VEGGIES",
 ingredients: [
   'brussels sprouts',
@@ -93,7 +96,8 @@ ingredients: [
   'cucumbers',
   'celery'
 ]
-}
+},
+{
 title: "BEVERAGES",
 ingredients: [
   'Almond Milk',
@@ -103,7 +107,8 @@ ingredients: [
   'Coconut Water',
   'Lemon or Fruit infused Water'
 ]
-v
+,
+{
 title: "FRUITS",
 ingredients: [
   'Raspberries',
@@ -129,7 +134,8 @@ ingredients: [
   'figs',
   'honeydew'
 ]
-}
+},
+{
 title: "OILS AND SEEDS",
 ingredients: [
   'pumpkin seeds',
@@ -140,7 +146,8 @@ ingredients: [
   'coconut, unsweetened',
   'dressings'
 ]
-}
+},
+{
 title: "SEASONINGS",
 ingredients: [
   'Herbs',

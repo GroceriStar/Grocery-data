@@ -29,7 +29,7 @@ ingredients: [
   'Tomato',
   'Watermelon'
 ]
-}
+},
 
 {
 title: "Vegetables and Greens",
@@ -59,7 +59,7 @@ ingredients: [
   'Sweet Potatoes',
   'Zucchini'
 ]
-}
+},
 
 {
 title: "Natural Sweeteners",
@@ -72,7 +72,7 @@ ingredients: [
   'Wild Honey',
   'Whole Stevia'
 ]
-}
+},
 
 {
 title: "Herbs/Spices",
@@ -86,7 +86,7 @@ ingredients: [
   'Iodized Salt',
   'Rosemary'
 ]
-}
+},
 {
 title: "Nuts and Seeds",
 ingredients: [
@@ -109,7 +109,7 @@ ingredients: [
   'Walnuts',
   'Fresh Nut/Seed Butter'
 ]
-}
+},
 {
 title: "Beans, Peas, Lentils",
 ingredients: [
@@ -129,7 +129,7 @@ ingredients: [
   'Red Beans',
   'White Beans'
 ]
-}
+},
 {
 title: "Whole Grains",
 ingredients: [
@@ -142,7 +142,7 @@ ingredients: [
   'Whole Grain Bread',
   'Whole Grain Tortillas'
 ]
-}
+},
 {
 title: "Fats and Oils",
 ingredients: [

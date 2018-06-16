@@ -49,7 +49,7 @@ ingredients: [
   'Cherry Tomatoes',
   'Turnips'
 ]
-}
+},
 {
 title: "Meat/Fish Poultry",
 ingredients: [
@@ -65,7 +65,7 @@ ingredients: [
   'Exotic Meats (such as ostrich and emu)',
   'Cold Cuts and Beacon (read label some have added sugar)'
 ]
-}
+},
 {
 title: "Cheese/Dairy",
 ingredients: [
@@ -78,7 +78,7 @@ ingredients: [
   'Full Fat Sour Cream (4 tbsp.)',
   'Unsweetened Almond Milk'
 ]
-}
+},
 {
 title: "Cheses In 1 Ounce Portions",
 ingredients: [
@@ -97,7 +97,7 @@ ingredients: [
   'Provolone',
   'Neufchatel'
 ]
-}
+},
 {
 title: "Seafood",
 ingredients: [
@@ -111,7 +111,7 @@ ingredients: [
   'Clams',
   'Squid'
 ]
-}
+},
 {
 title: "Fruits",
 ingredients: [
@@ -125,7 +125,7 @@ ingredients: [
   'Raspberries',
   'Red Grapefruit'
 ]
-}
+},
 {
 title: "Fats and Dressings",
 ingredients: [
@@ -138,7 +138,7 @@ ingredients: [
   'Ranch Dressing (2 tbsp.)',
   '100 Island Dressing (2 tbsp.)'
 ]
-}
+},
 {
 title: "Zero Carb Drinks",
 ingredients: [
@@ -150,7 +150,7 @@ ingredients: [
   'No-Calorie Flavored Seltzers',
   'Herbal Tea (without added barley or fruit sugars)'
 ]
-}
+},
 {
 title: "Nuts/Seeds",
 ingredients: [
@@ -167,7 +167,7 @@ ingredients: [
   'Almond Butter',
   'Peanut Butter'
 ]
-}
+},
 {
 
 title: "Miscellaneous",
@@ -186,7 +186,7 @@ ingredients: [
   'Coconut Flakes',
   'Pickles'
 ]
-}
+},
 {
 title: "Soy Vegan Protein",
 ingredients: [
@@ -197,13 +197,13 @@ ingredients: [
   'Tempeh',
   'Soy Nuts'
 ]
-}
+},
 {
 title: "Herbs/Spices",
 ingredients: [
   'All Herbs And Spices Have Very Few Carbs'
 ]
-}
+},
 {
 title: "Zero Carb Alcoholic Drinks",
 ingredients: [
