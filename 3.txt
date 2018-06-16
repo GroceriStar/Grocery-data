@@ -1,6 +1,7 @@
 ﻿http://dietitiandebbie.com/2015/05/28/healthy-vegetarian-grocery-list/
 HEALTHY VEGETARIAN GROCERY LIST
 
+{
 title: "Produce",
 ingredients: [
   'Salad greens',
@@ -28,7 +29,8 @@ ingredients: [
   'Zucchini',
   'Melon'
 ]
-
+}
+{
 title: "Protein",
 ingredients: [
   'Tofu',
@@ -40,7 +42,8 @@ ingredients: [
   'Eggs',
   'Hummus'
 ]
-
+}
+{
 title: "Bulk Foods",
 ingredients: [
   'Dried beans',
@@ -53,7 +56,8 @@ ingredients: [
   'Chia seeds',
   'Ground flaxseed'
 ]
-
+}
+{
 title: "Canned Goods/Pantry",
 ingredients: [
   'Peanut or Almond butter',
@@ -64,7 +68,8 @@ ingredients: [
   'Whole grain pasta',
   'Whole wheat bread'
 ]
-
+}
+{
 title: "Herbs/Spices",
 ingredients: [
   'Nutritional yeast',
@@ -79,13 +84,15 @@ ingredients: [
   'Salt',
   'Black Pepper'
 ]
-
+}
+{
 title: "Frozen Foods",
 ingredients: [
   'Frozen fruit: berries, mango, pineapple',
   'Frozen vegetables: peas, green beans, brussels sprouts, corn, edamame'
 ]
-
+}
+{
 title: "Oils, Vinegars, and Condiments",
 ingredients: [
   'Olive or Canola oil',
@@ -97,3 +104,4 @@ ingredients: [
   'BBQ Sauce',
   'Vanilla'
 ]
+}

@@ -1,7 +1,7 @@
 Low Carb Food List Printable – Carb Chart
 https://ketosizeme.com/low-carb-food-list-printable/
 
-
+{
 title: "Vegatables",
 ingredients: [
   'Alfalfa Sprouts',
@@ -49,7 +49,8 @@ ingredients: [
   'Cherry Tomatoes',
   'Turnips'
 ]
-
+}
+{
 title: "Meat/Fish Poultry",
 ingredients: [
   'All Red Meat',
@@ -64,7 +65,8 @@ ingredients: [
   'Exotic Meats (such as ostrich and emu)',
   'Cold Cuts and Beacon (read label some have added sugar)'
 ]
-
+}
+{
 title: "Cheese/Dairy",
 ingredients: [
   'Egg White',
@@ -76,7 +78,8 @@ ingredients: [
   'Full Fat Sour Cream (4 tbsp.)',
   'Unsweetened Almond Milk'
 ]
-
+}
+{
 title: "Cheses In 1 Ounce Portions",
 ingredients: [
   'Gruyere Cheese',
@@ -94,7 +97,8 @@ ingredients: [
   'Provolone',
   'Neufchatel'
 ]
-
+}
+{
 title: "Seafood",
 ingredients: [
   'Shrimp',
@@ -107,7 +111,8 @@ ingredients: [
   'Clams',
   'Squid'
 ]
-
+}
+{
 title: "Fruits",
 ingredients: [
   'Limes',
@@ -120,7 +125,8 @@ ingredients: [
   'Raspberries',
   'Red Grapefruit'
 ]
-
+}
+{
 title: "Fats and Dressings",
 ingredients: [
   'Grass Fed Butter',
@@ -132,7 +138,8 @@ ingredients: [
   'Ranch Dressing (2 tbsp.)',
   '100 Island Dressing (2 tbsp.)'
 ]
-
+}
+{
 title: "Zero Carb Drinks",
 ingredients: [
   'Water',
@@ -143,7 +150,8 @@ ingredients: [
   'No-Calorie Flavored Seltzers',
   'Herbal Tea (without added barley or fruit sugars)'
 ]
-
+}
+{
 title: "Nuts/Seeds",
 ingredients: [
   'Almonds (2tbsp. whole)',
@@ -159,7 +167,8 @@ ingredients: [
   'Almond Butter',
   'Peanut Butter'
 ]
-
+}
+{
 
 title: "Miscellaneous",
 ingredients: [
@@ -177,7 +186,8 @@ ingredients: [
   'Coconut Flakes',
   'Pickles'
 ]
-
+}
+{
 title: "Soy Vegan Protein",
 ingredients: [
   'Soybeans',
@@ -187,12 +197,14 @@ ingredients: [
   'Tempeh',
   'Soy Nuts'
 ]
-
+}
+{
 title: "Herbs/Spices",
 ingredients: [
   'All Herbs And Spices Have Very Few Carbs'
 ]
-
+}
+{
 title: "Zero Carb Alcoholic Drinks",
 ingredients: [
 'Gin',
@@ -202,3 +214,4 @@ ingredients: [
 'Martini',
 'Tequila'
 ]
+}

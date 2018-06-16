@@ -1,6 +1,7 @@
 ﻿https://www.ketovale.com/ketogenic-diet-food-list/
 KETO DIET FOOD LIST
 
+{
 title: "FATS",
 ingredients: [
   'Extra Virgin Olive Oil',
@@ -21,7 +22,7 @@ ingredients: [
   'Cheddar Cheese',
   'Heavy Cream'
 ]
-
+}
 title: "KETO SNACKS",
 ingredients: [
   'Eggs',
@@ -35,7 +36,7 @@ ingredients: [
   'Almonds',
   'Cheddar Cheese',
 ]
-
+}
 title: "PROTEIN",
 ingredients: [
   'Chicken Breast',
@@ -60,7 +61,7 @@ ingredients: [
   'Feta Cheese',
   'Creek Yogurt'
 ]
-
+}
 title: "VEGGIES",
 ingredients: [
   'Spinach',
@@ -84,7 +85,7 @@ ingredients: [
   'Garlic',
   'Mushrooms'
 ]
-
+}
 title: "CONDIMENTS",
 ingredients: [
   'Lemon juice',
@@ -101,7 +102,7 @@ ingredients: [
   'Garlic powder',
   'Turmeric'
 ]
-
+}
 title: "DRINKS",
 ingredients: [
   'Black coffee',
@@ -113,14 +114,14 @@ ingredients: [
   'Coconut milk, unsweetened',
   'Bone Broth'
 ]
-
+}
 title: "FLOUR",
 ingredients: [
   'Flaxseed meal',
   'Almond flour',
   'Coconut flour'
 ]
-
+}
 title: "FRUITS",
 ingredients: [
   'Avocados',
@@ -129,3 +130,4 @@ ingredients: [
   'Blackberries',
   'Blueberries',
 ]
+}

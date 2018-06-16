@@ -1,5 +1,6 @@
 ﻿https://www.nogettingoffthistrain.com/wp-content/uploads/2017/03/Grocery-list-essentials-498x1024.png
 
+{
 title: "MEAT/PROTEIN",
 ingredients: [
   'Chicken breast',
@@ -9,7 +10,7 @@ ingredients: [
   'Canned tuna',
   'Beans/lentils'
 ]
-
+}
 title: "DAIRY",
 ingredients: [
   'Greek yogurt',
@@ -18,7 +19,7 @@ ingredients: [
   'Milk (cow, almond)',
   'Eggs'
 ]
-
+}
 title: "FRUITS",
 ingredients: [
   'Strawberries',
@@ -28,7 +29,7 @@ ingredients: [
   'Cantaloupe',
   'Popcorn'
 ]
-
+}
 title: "SNACKS",
 ingredients: [
   'Popcorn',
@@ -41,7 +42,7 @@ ingredients: [
   'Raisins',
   'Peanut butter'
 ]
-
+}
 title: "VEGETABLES",
 ingredients: [
   'Romaine lettuce',
@@ -57,7 +58,7 @@ ingredients: [
   'Onions',
   'Spinach'
 ]
-
+}
 title: "BAKING",
 ingredients: [
   'Whole wheat flour',
@@ -68,7 +69,7 @@ ingredients: [
   'Cooking spray',
   'Vanilla extract'
 ]
-
+}
 title: "GRIS",
 ingredients: [
   'Whole wheat pasta',
@@ -78,3 +79,4 @@ ingredients: [
   'Brown rice',
   'Rolled oats'
 ]
+}

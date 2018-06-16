@@ -1,6 +1,7 @@
 Rebel Dietitian, Dana McDonald, RD
 https://rebeldietitian.us/shopping-lists/
 
+{
 title: "Fresh Fruit",
 ingredients: [
   'Apples',
@@ -28,8 +29,9 @@ ingredients: [
   'Tomato',
   'Watermelon'
 ]
+}
 
-
+{
 title: "Vegetables and Greens",
 ingredients: [
   'Asparagus',
@@ -57,7 +59,9 @@ ingredients: [
   'Sweet Potatoes',
   'Zucchini'
 ]
+}
 
+{
 title: "Natural Sweeteners",
 ingredients: [
   'Coconut Palm Sugar',
@@ -68,7 +72,9 @@ ingredients: [
   'Wild Honey',
   'Whole Stevia'
 ]
+}
 
+{
 title: "Herbs/Spices",
 ingredients: [
   'Basil',
@@ -80,7 +86,8 @@ ingredients: [
   'Iodized Salt',
   'Rosemary'
 ]
-
+}
+{
 title: "Nuts and Seeds",
 ingredients: [
   'Almonds',
@@ -102,7 +109,8 @@ ingredients: [
   'Walnuts',
   'Fresh Nut/Seed Butter'
 ]
-
+}
+{
 title: "Beans, Peas, Lentils",
 ingredients: [
   'Black Beans',
@@ -121,7 +129,8 @@ ingredients: [
   'Red Beans',
   'White Beans'
 ]
-
+}
+{
 title: "Whole Grains",
 ingredients: [
   'Brown Rise',
@@ -133,10 +142,12 @@ ingredients: [
   'Whole Grain Bread',
   'Whole Grain Tortillas'
 ]
-
+}
+{
 title: "Fats and Oils",
 ingredients: [
   'Avocado Oil',
   'Olive Oil',
   'Coconut Oil'
 ]
+}
