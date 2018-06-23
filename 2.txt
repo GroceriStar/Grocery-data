@@ -1,5 +1,3 @@
-Rebel Dietitian, Dana McDonald, RD
-https://rebeldietitian.us/shopping-lists/
 
 {
 title: "Fresh Fruit",
